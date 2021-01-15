@@ -25,3 +25,9 @@ Data centres produce large amount of data at 24/7, because of a lot of people co
 - Real-Time System Logs get captured using a cluster of Kafka Producers from DC
 - And the Stream of Real-Time data passes through LSTM Anomaly Detection to identify unexpected Resource spikes from CIs (Configuration Items)
 - If any Anomalies found, Script executor generates indication on Centeral Dashboard and Performs System cleaning tasks like i) Remving Junks that accumulates overtime: Temporary files, Broken shortcuts and Other problems
+
+### ReActive
+- This Model utilizes a ticket dump to classify Automatable and Non-Automatable tickets based on Existing available solutions using Temporal Segmentation
+- And uses Recommendation engine to categorize and suggest a list of available solutions with respect to the event captured from Ticketing Platform (ServiceNow) at near Real-Time.
+- And the Suggested Solutions will get triggered from a GUI based End-Point with Configurable Parameters.
+
