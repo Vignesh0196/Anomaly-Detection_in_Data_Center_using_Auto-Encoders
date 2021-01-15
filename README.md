@@ -1,4 +1,4 @@
-[![](https://github.com/Vignesh0196/Anomaly-Detection_in_Data_Center_using_Auto-Encoders/blob/main/anomaly__.png)](https://github.com/Vignesh0196/)
+[![](https://github.com/Vignesh0196/Anomaly-Detection_in_Data_Center_using_Auto-Encoders/blob/main/anomaly__.png)](https://github.com/Vignesh0196/Anomaly-Detection_in_Data_Center_using_Auto-Encoders)
 # Anomaly Detection in Data Center using Auto-Encoders
 Building Anomaly Detection to identify unexpected Resource spikes from every CIs present in **Data Center**
 
@@ -12,3 +12,7 @@ Data centres produce large amount of data at 24/7, because of a lot of people co
   * Clears Temporary files
   * Fixing Broken shortcuts etc.
 
+- By applying Anomaly Detection on these logs the Master sever would suggest Worker nodes about what actions to take to overcome future issues.
+
+## Architechture 
+[![](https://github.com/Vignesh0196/Anomaly-Detection_in_Data_Center_using_Auto-Encoders/blob/main/Architechture_.png)](https://github.com/Vignesh0196/Anomaly-Detection_in_Data_Center_using_Auto-Encoders)
