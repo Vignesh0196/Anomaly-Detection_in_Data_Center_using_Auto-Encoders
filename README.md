@@ -31,3 +31,9 @@ Data centres produce large amount of data at 24/7, because of a lot of people co
 - And uses Recommendation engine to categorize and suggest a list of available solutions with respect to the event captured from Ticketing Platform (ServiceNow) at near Real-Time.
 - And the Suggested Solutions will get triggered from a GUI based End-Point with Configurable Parameters.
 
+## Conclusion
+- I have given an Abstract Overview of how the whole process is working
+- In this repo, I have attached a jupyter notebook having a working prototype of Anomaly Detection using Auto-Encoders
+- This type of Solutions comes under the Domain of Hyper Automation
+- Currently focused on working in this Domain under the Influence of **Pascal BORNET** an Innovator in Hyper Automation
+
