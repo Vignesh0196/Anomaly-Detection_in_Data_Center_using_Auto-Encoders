@@ -18,8 +18,8 @@ Data centres produce large amount of data at 24/7, because of a lot of people co
 [![](https://github.com/Vignesh0196/Anomaly-Detection_in_Data_Center_using_Auto-Encoders/blob/main/Architechture_.png)](https://github.com/Vignesh0196/Anomaly-Detection_in_Data_Center_using_Auto-Encoders)
 
 ## Architechture Follows Two Approaches
-* **ProActive**
-* **ReActive**
+* **ProActive Model**
+* **ReActive Model**
 
 ### ProActive
 - Real-Time System Logs get captured using a cluster of Kafka Producers from DC
