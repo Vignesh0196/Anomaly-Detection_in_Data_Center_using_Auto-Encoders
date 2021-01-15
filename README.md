@@ -3,10 +3,10 @@
 Building Anomaly Detection to identify unexpected Resource spikes from every CIs present in **Data Center**
 
 ## Introduction
-Data centers produce large amount of data at 24/7 because of lot of people consuming all kinds of Online Services everyday, and it produces two types of data i.e i) Application Logs and ii) System Logs and this is rarely consumed for a benefit of a Business itself and by understanding its pattern could lead us to reslove some major problems like Making DC runs smoothly, Saving lot of Man hours, Less Maintainence etc, it would give a huge impact in IT Services.
+Data centres produces a large amount of data at 24/7, because of a lot of people consuming all kinds of Online Services every day and it produces two types of data i.e i) Application Logs ii) System Logs and this is rarely consumed for a benefit of a Business itself and by understanding its pattern could lead us to resolve some major problems like Making DC runs smoothly, Saving a lot of Manhours, Less Maintenance etc, it would give a huge impact in IT Services.
 
 - Consider a machine that solves it minor problems by itself and that could possibly avoid some major future problems
-- This is a concept of Auto-Healing, and this is possible by utilizing lot of scripts that could do some operations like 
+- This is a concept of Auto-Healing, and this is possible by utilizing Scripts that could do some operations like 
   * Removes Junks that accumulates overtime
   * Clears Temporary files
   * Fixing Broken shortcuts etc.
