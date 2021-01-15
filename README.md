@@ -7,7 +7,7 @@ Data centers produce large amount of data at 24/7 because of lot of people consu
 
 - Consider a machine that solves it minor problems by itself and that could possibly avoid some major future problems
 - This is a concept of Auto-Healing, and this is possible by utilizing lot of scripts that could do some operations like 
-  + i) Removes Junks that accumulates overtime
-  + ii) Clears Temporary files
-  + iii) Fixing Broken shortcuts etc.
+  * Removes Junks that accumulates overtime
+  * Clears Temporary files
+  * Fixing Broken shortcuts etc.
 
